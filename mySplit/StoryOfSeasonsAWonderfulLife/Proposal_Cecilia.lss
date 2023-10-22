@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Story of Seasons: A Wonderful Life</GameName>
+  <CategoryName>Proposal_Cecilia</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/04/2023 21:42:01" isStartedSynced="True" ended="03/04/2023 22:10:37" isEndedSynced="True">
+      <RealTime>00:28:36.0027844</RealTime>
+    </Attempt>
+    <Attempt id="2" started="03/04/2023 22:17:29" isStartedSynced="True" ended="03/04/2023 22:43:20" isEndedSynced="True">
+      <RealTime>00:25:51.5481871</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>プロポーズ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:51.5481871</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:25:51.5481871</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-46">
+          <RealTime>00:53:07.8682070</RealTime>
+        </Time>
+        <Time id="-45">
+          <RealTime>4.15:06:36</RealTime>
+        </Time>
+        <Time id="-15">
+          <RealTime>2.07:33:18</RealTime>
+        </Time>
+        <Time id="-8">
+          <RealTime>3.11:19:57</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:25:51.5481871</RealTime>
+        </Time>
+        <Time id="-5">
+          <RealTime>03:35:47.8960000</RealTime>
+        </Time>
+        <Time id="-4">
+          <RealTime>02:36:08.6029999</RealTime>
+        </Time>
+        <Time id="-3">
+          <RealTime>01:45:45.3690000</RealTime>
+        </Time>
+        <Time id="-2">
+          <RealTime>01:40:10.2392240</RealTime>
+        </Time>
+        <Time id="-1">
+          <RealTime>01:03:08.8960590</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:53:07.8682060</RealTime>
+        </Time>
+        <Time id="1">
+          <RealTime>00:28:36.0027844</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

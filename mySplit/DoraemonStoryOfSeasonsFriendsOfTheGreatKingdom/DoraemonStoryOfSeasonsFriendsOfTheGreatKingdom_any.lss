@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Doraemon Story of Seasons: Friends of The Great Kingdom</GameName>
+  <CategoryName>Any%_NoDLC</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/04/2023 21:42:01" isStartedSynced="True" ended="03/04/2023 22:10:37" isEndedSynced="True">
+      <RealTime>00:28:36.0027844</RealTime>
+    </Attempt>
+    <Attempt id="2" started="03/04/2023 22:17:29" isStartedSynced="True" ended="03/04/2023 22:43:20" isEndedSynced="True">
+      <RealTime>00:25:51.5481871</RealTime>
+    </Attempt>
+    <Attempt id="3" started="09/02/2023 21:03:56" isStartedSynced="True" ended="09/02/2023 23:59:33" isEndedSynced="True">
+      <RealTime>02:55:36.9978999</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>クリア</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:55:36.9978999</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>02:55:36.9978999</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>115.17:46:39</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>115.17:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>02:55:36.9978999</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

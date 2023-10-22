@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Animal Crossing: City Folk</GameName>
+  <CategoryName>Golden Axe</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>85</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="01/14/2023 16:29:32" isStartedSynced="True" ended="01/14/2023 17:36:39" isEndedSynced="True" />
+    <Attempt id="2" started="01/15/2023 21:25:56" isStartedSynced="True" ended="01/15/2023 21:26:11" isEndedSynced="True" />
+    <Attempt id="3" started="01/15/2023 21:26:47" isStartedSynced="True" ended="01/15/2023 21:30:01" isEndedSynced="True" />
+    <Attempt id="4" started="01/15/2023 21:31:28" isStartedSynced="True" ended="01/15/2023 21:32:36" isEndedSynced="True" />
+    <Attempt id="5" started="01/15/2023 21:32:45" isStartedSynced="True" ended="01/15/2023 21:34:18" isEndedSynced="True" />
+    <Attempt id="6" started="01/15/2023 21:34:31" isStartedSynced="True" ended="01/15/2023 21:35:46" isEndedSynced="True" />
+    <Attempt id="7" started="01/15/2023 21:35:56" isStartedSynced="True" ended="01/15/2023 21:37:14" isEndedSynced="True" />
+    <Attempt id="8" started="01/15/2023 21:37:42" isStartedSynced="True" ended="01/15/2023 22:46:24" isEndedSynced="True">
+      <RealTime>01:08:42.4421080</RealTime>
+    </Attempt>
+    <Attempt id="9" started="01/20/2023 20:53:20" isStartedSynced="True" ended="01/20/2023 20:55:20" isEndedSynced="True" />
+    <Attempt id="10" started="01/20/2023 20:55:41" isStartedSynced="True" ended="01/20/2023 21:40:34" isEndedSynced="True" />
+    <Attempt id="11" started="01/20/2023 21:41:04" isStartedSynced="True" ended="01/20/2023 21:53:51" isEndedSynced="True" />
+    <Attempt id="12" started="01/20/2023 21:55:24" isStartedSynced="True" ended="01/20/2023 21:55:33" isEndedSynced="True" />
+    <Attempt id="13" started="01/20/2023 21:55:41" isStartedSynced="True" ended="01/20/2023 21:55:44" isEndedSynced="True" />
+    <Attempt id="14" started="01/20/2023 21:56:00" isStartedSynced="True" ended="01/20/2023 22:06:42" isEndedSynced="True">
+      <PauseTime>00:00:04.7591920</PauseTime>
+    </Attempt>
+    <Attempt id="15" started="01/20/2023 22:06:46" isStartedSynced="True" ended="01/20/2023 22:07:56" isEndedSynced="True" />
+    <Attempt id="16" started="01/20/2023 22:11:52" isStartedSynced="True" ended="01/20/2023 22:18:49" isEndedSynced="True" />
+    <Attempt id="17" started="01/20/2023 22:38:22" isStartedSynced="True" ended="01/20/2023 22:44:20" isEndedSynced="True" />
+    <Attempt id="18" started="01/20/2023 22:44:48" isStartedSynced="True" ended="01/20/2023 22:46:37" isEndedSynced="True" />
+    <Attempt id="19" started="01/20/2023 22:48:46" isStartedSynced="True" ended="01/20/2023 22:49:55" isEndedSynced="True" />
+    <Attempt id="20" started="01/20/2023 22:50:01" isStartedSynced="True" ended="01/20/2023 22:50:03" isEndedSynced="True" />
+    <Attempt id="21" started="01/20/2023 22:50:08" isStartedSynced="True" ended="01/20/2023 22:51:16" isEndedSynced="True" />
+    <Attempt id="22" started="01/20/2023 22:51:27" isStartedSynced="True" ended="01/20/2023 22:52:48" isEndedSynced="True" />
+    <Attempt id="23" started="01/20/2023 22:52:52" isStartedSynced="True" ended="01/20/2023 22:54:05" isEndedSynced="True" />
+    <Attempt id="24" started="01/20/2023 22:54:17" isStartedSynced="True" ended="01/20/2023 22:55:38" isEndedSynced="True" />
+    <Attempt id="25" started="01/20/2023 22:55:41" isStartedSynced="True" ended="01/20/2023 22:55:43" isEndedSynced="True" />
+    <Attempt id="26" started="01/20/2023 22:55:46" isStartedSynced="True" ended="01/20/2023 22:57:16" isEndedSynced="True" />
+    <Attempt id="27" started="01/20/2023 22:57:19" isStartedSynced="True" ended="01/20/2023 22:58:34" isEndedSynced="True" />
+    <Attempt id="28" started="01/20/2023 22:58:47" isStartedSynced="True" ended="01/20/2023 23:00:33" isEndedSynced="True" />
+    <Attempt id="29" started="01/20/2023 23:00:46" isStartedSynced="True" ended="01/21/2023 00:28:23" isEndedSynced="True">
+      <RealTime>01:27:36.8332300</RealTime>
+    </Attempt>
+    <Attempt id="30" started="01/21/2023 16:58:10" isStartedSynced="True" ended="01/21/2023 16:59:18" isEndedSynced="True" />
+    <Attempt id="31" started="01/21/2023 16:59:30" isStartedSynced="True" ended="01/21/2023 17:00:50" isEndedSynced="True" />
+    <Attempt id="32" started="01/21/2023 17:00:52" isStartedSynced="True" ended="01/21/2023 17:00:55" isEndedSynced="True" />
+    <Attempt id="33" started="01/21/2023 17:00:56" isStartedSynced="True" ended="01/21/2023 17:02:15" isEndedSynced="True" />
+    <Attempt id="34" started="01/21/2023 17:02:19" isStartedSynced="True" ended="01/21/2023 17:03:28" isEndedSynced="True" />
+    <Attempt id="35" started="01/21/2023 17:03:47" isStartedSynced="True" ended="01/21/2023 17:05:19" isEndedSynced="True" />
+    <Attempt id="36" started="01/21/2023 17:05:21" isStartedSynced="True" ended="01/21/2023 17:07:27" isEndedSynced="True" />
+    <Attempt id="37" started="01/21/2023 17:07:51" isStartedSynced="True" ended="01/21/2023 17:08:59" isEndedSynced="True" />
+    <Attempt id="38" started="01/21/2023 17:09:09" isStartedSynced="True" ended="01/21/2023 17:10:18" isEndedSynced="True" />
+    <Attempt id="39" started="01/21/2023 17:10:27" isStartedSynced="True" ended="01/21/2023 17:11:58" isEndedSynced="True" />
+    <Attempt id="40" started="01/21/2023 17:12:20" isStartedSynced="True" ended="01/21/2023 17:13:26" isEndedSynced="True" />
+    <Attempt id="41" started="01/21/2023 17:13:38" isStartedSynced="True" ended="01/21/2023 17:14:56" isEndedSynced="True" />
+    <Attempt id="42" started="01/21/2023 17:14:58" isStartedSynced="True" ended="01/21/2023 17:16:16" isEndedSynced="True" />
+    <Attempt id="43" started="01/21/2023 17:16:19" isStartedSynced="True" ended="01/21/2023 17:17:33" isEndedSynced="True" />
+    <Attempt id="44" started="01/21/2023 17:17:42" isStartedSynced="True" ended="01/21/2023 17:18:50" isEndedSynced="True" />
+    <Attempt id="45" started="01/21/2023 17:19:41" isStartedSynced="True" ended="01/21/2023 17:21:03" isEndedSynced="True" />
+    <Attempt id="46" started="01/21/2023 17:21:06" isStartedSynced="True" ended="01/21/2023 18:39:51" isEndedSynced="True">
+      <RealTime>01:18:45.8210570</RealTime>
+    </Attempt>
+    <Attempt id="47" started="01/29/2023 16:02:57" isStartedSynced="True" ended="01/29/2023 18:13:44" isEndedSynced="True">
+      <RealTime>02:10:46.8882230</RealTime>
+    </Attempt>
+    <Attempt id="48" started="02/03/2023 16:15:49" isStartedSynced="True" ended="02/03/2023 16:19:22" isEndedSynced="True" />
+    <Attempt id="49" started="02/03/2023 16:20:29" isStartedSynced="True" ended="02/03/2023 16:22:39" isEndedSynced="True" />
+    <Attempt id="50" started="02/03/2023 16:22:53" isStartedSynced="True" ended="02/03/2023 16:23:57" isEndedSynced="True" />
+    <Attempt id="51" started="02/03/2023 16:24:11" isStartedSynced="True" ended="02/03/2023 17:30:53" isEndedSynced="True">
+      <RealTime>01:06:42.2387210</RealTime>
+    </Attempt>
+    <Attempt id="52" started="02/08/2023 18:07:13" isStartedSynced="True" ended="02/08/2023 18:07:15" isEndedSynced="True" />
+    <Attempt id="53" started="02/08/2023 18:07:16" isStartedSynced="True" ended="02/08/2023 18:08:36" isEndedSynced="True" />
+    <Attempt id="54" started="02/08/2023 18:08:39" isStartedSynced="True" ended="02/08/2023 18:09:55" isEndedSynced="True" />
+    <Attempt id="55" started="02/08/2023 18:10:02" isStartedSynced="True" ended="02/08/2023 18:10:04" isEndedSynced="True" />
+    <Attempt id="56" started="02/08/2023 18:10:06" isStartedSynced="True" ended="02/08/2023 18:13:09" isEndedSynced="True" />
+    <Attempt id="57" started="02/08/2023 18:13:50" isStartedSynced="True" ended="02/08/2023 18:15:11" isEndedSynced="True" />
+    <Attempt id="58" started="02/08/2023 18:15:21" isStartedSynced="True" ended="02/08/2023 18:16:28" isEndedSynced="True" />
+    <Attempt id="59" started="02/08/2023 18:16:45" isStartedSynced="True" ended="02/08/2023 20:16:23" isEndedSynced="True">
+      <RealTime>01:59:37.0864290</RealTime>
+    </Attempt>
+    <Attempt id="60" started="02/09/2023 12:13:17" isStartedSynced="True" ended="02/09/2023 12:14:25" isEndedSynced="True" />
+    <Attempt id="61" started="02/09/2023 12:14:38" isStartedSynced="True" ended="02/09/2023 12:15:53" isEndedSynced="True" />
+    <Attempt id="62" started="02/09/2023 12:15:55" isStartedSynced="True" ended="02/09/2023 12:16:59" isEndedSynced="True" />
+    <Attempt id="63" started="02/09/2023 12:17:10" isStartedSynced="True" ended="02/09/2023 12:18:18" isEndedSynced="True" />
+    <Attempt id="64" started="02/09/2023 12:18:31" isStartedSynced="True" ended="02/09/2023 12:19:38" isEndedSynced="True" />
+    <Attempt id="65" started="02/09/2023 12:19:51" isStartedSynced="True" ended="02/09/2023 12:20:54" isEndedSynced="True" />
+    <Attempt id="66" started="02/09/2023 12:21:07" isStartedSynced="True" ended="02/09/2023 12:22:10" isEndedSynced="True" />
+    <Attempt id="67" started="02/09/2023 12:22:22" isStartedSynced="True" ended="02/09/2023 14:28:22" isEndedSynced="True">
+      <RealTime>02:05:59.6580840</RealTime>
+    </Attempt>
+    <Attempt id="68" started="02/11/2023 16:02:51" isStartedSynced="True" ended="02/11/2023 17:31:35" isEndedSynced="True" />
+    <Attempt id="69" started="02/11/2023 17:37:50" isStartedSynced="True" ended="02/11/2023 17:39:04" isEndedSynced="True" />
+    <Attempt id="70" started="02/11/2023 17:39:15" isStartedSynced="True" ended="02/11/2023 17:40:20" isEndedSynced="True" />
+    <Attempt id="71" started="02/11/2023 17:40:37" isStartedSynced="True" ended="02/11/2023 17:41:42" isEndedSynced="True" />
+    <Attempt id="72" started="02/11/2023 17:41:54" isStartedSynced="True" ended="02/11/2023 17:42:58" isEndedSynced="True" />
+    <Attempt id="73" started="02/11/2023 17:44:52" isStartedSynced="True" ended="02/11/2023 17:46:03" isEndedSynced="True" />
+    <Attempt id="74" started="02/11/2023 17:46:14" isStartedSynced="True" ended="02/11/2023 17:47:17" isEndedSynced="True" />
+    <Attempt id="75" started="02/11/2023 17:47:29" isStartedSynced="True" ended="02/11/2023 18:03:23" isEndedSynced="True" />
+    <Attempt id="76" started="02/11/2023 18:05:07" isStartedSynced="True" ended="02/11/2023 18:06:41" isEndedSynced="True" />
+    <Attempt id="77" started="02/11/2023 18:06:44" isStartedSynced="True" ended="02/11/2023 18:07:46" isEndedSynced="True" />
+    <Attempt id="78" started="02/11/2023 18:08:26" isStartedSynced="True" ended="02/11/2023 18:09:29" isEndedSynced="True" />
+    <Attempt id="79" started="02/11/2023 18:09:46" isStartedSynced="True" ended="02/11/2023 18:10:52" isEndedSynced="True" />
+    <Attempt id="80" started="02/11/2023 18:11:05" isStartedSynced="True" ended="02/11/2023 18:12:13" isEndedSynced="True" />
+    <Attempt id="81" started="02/11/2023 18:12:25" isStartedSynced="True" ended="02/11/2023 18:13:26" isEndedSynced="True" />
+    <Attempt id="82" started="02/11/2023 18:13:44" isStartedSynced="True" ended="02/11/2023 18:14:46" isEndedSynced="True" />
+    <Attempt id="83" started="02/11/2023 18:15:06" isStartedSynced="True" ended="02/11/2023 19:55:43" isEndedSynced="True">
+      <PauseTime>00:04:15.9517347</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>社畜タイム</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:33.1198770</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:02.0108080</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>6944.09:16:39</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:14:08.9910090</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:14:32.1109290</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:14:24.0078300</RealTime>
+        </Time>
+        <Time id="46">
+          <RealTime>00:13:53.4850240</RealTime>
+        </Time>
+        <Time id="47">
+          <RealTime>00:13:54.1703110</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:13:33.1198770</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:13:02.0108080</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:13:59.2425970</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:14:25.3453096</RealTime>
+        </Time>
+        <Time id="75">
+          <RealTime>00:14:49.5115203</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:15:06.1993321</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>卵ガチャ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:51.8901670</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:35.4942430</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1" />
+        <Time id="8" />
+        <Time id="10" />
+        <Time id="29" />
+        <Time id="46" />
+        <Time id="47" />
+        <Time id="51">
+          <RealTime>00:07:18.7702900</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:06:49.7982610</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:05:35.4942430</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:06:44.8634459</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:08:11.8912570</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2035/04/15</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:02.9866250</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:43.7529882</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>1.03:46:39</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:26:23.3528150</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:27:12.7093040</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:24:57.5946100</RealTime>
+        </Time>
+        <Time id="46">
+          <RealTime>00:22:29.3574980</RealTime>
+        </Time>
+        <Time id="47">
+          <RealTime>00:24:53.1952590</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:02:11.0964550</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:02:04.3290550</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:01:54.5208240</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:01:56.9676204</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:01:43.7529882</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2000/04/15</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:24:12.4110740</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:04.0805430</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5" />
+        <Time id="-1" />
+        <Time id="8" />
+        <Time id="29" />
+        <Time id="46" />
+        <Time id="47" />
+        <Time id="51">
+          <RealTime>00:01:09.4244480</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:01:12.8866060</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:01:04.0805430</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:01:19.7784961</RealTime>
+        </Time>
+        <Time id="83" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2012/04/15</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:22.7476870</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:00.8695439</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5" />
+        <Time id="-1" />
+        <Time id="8" />
+        <Time id="29" />
+        <Time id="46" />
+        <Time id="47" />
+        <Time id="51">
+          <RealTime>00:01:10.3366130</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:01:07.6582380</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:01:20.4265120</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:01:00.8695439</RealTime>
+        </Time>
+        <Time id="83" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2019/04/15</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:43.2246120</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:11.2903140</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5" />
+        <Time id="-1" />
+        <Time id="8" />
+        <Time id="29" />
+        <Time id="46" />
+        <Time id="47" />
+        <Time id="51">
+          <RealTime>00:01:20.4769240</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:01:11.2903140</RealTime>
+        </Time>
+        <Time id="67" />
+        <Time id="68">
+          <RealTime>00:01:18.2120000</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:03:49.4244570</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2024/04/15</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:43.2856270</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:53.1569570</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5" />
+        <Time id="-1" />
+        <Time id="8" />
+        <Time id="29" />
+        <Time id="46" />
+        <Time id="47" />
+        <Time id="51">
+          <RealTime>00:03:00.0610140</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:02:53.1569570</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:04:01.4158780</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:03:06.5580370</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:03:04.2927723</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2031/04/15</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:32:10.6486500</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:59.6729484</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5" />
+        <Time id="-1" />
+        <Time id="8" />
+        <Time id="29" />
+        <Time id="46" />
+        <Time id="47" />
+        <Time id="51">
+          <RealTime>00:02:27.3630230</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:02:22.5092200</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:02:32.5616320</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:01:59.6729484</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:02:35.7865789</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2035/04/15</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:35:04.1280560</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:12.7766480</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5" />
+        <Time id="-1" />
+        <Time id="8" />
+        <Time id="29" />
+        <Time id="46" />
+        <Time id="47" />
+        <Time id="51">
+          <RealTime>00:02:53.4794050</RealTime>
+        </Time>
+        <Time id="59" />
+        <Time id="67">
+          <RealTime>00:02:12.7766480</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:02:17.3211549</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:02:37.2296645</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>(IGT)2035/04/25</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:37:15.1438070</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:28.0325900</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5" />
+        <Time id="-1" />
+        <Time id="8" />
+        <Time id="29" />
+        <Time id="46" />
+        <Time id="47" />
+        <Time id="51">
+          <RealTime>00:02:11.0157510</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:04:13.6506120</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:01:28.0325900</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:01:34.4248680</RealTime>
+        </Time>
+        <Time id="83">
+          <RealTime>00:02:08.1291386</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>(IGT)2035/05/05 1投目</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:58.9122268</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5" />
+        <Time id="-1" />
+        <Time id="8" />
+        <Time id="29" />
+        <Time id="46" />
+        <Time id="47" />
+        <Time id="51" />
+        <Time id="59">
+          <RealTime>00:00:59.9663530</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:01:10.6244910</RealTime>
+        </Time>
+        <Time id="68">
+          <RealTime>00:00:58.9122268</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>金の斧ゲット</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:06:42.2387210</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:05.7245330</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5">
+          <RealTime>00:28:11.3599990</RealTime>
+        </Time>
+        <Time id="-1">
+          <RealTime>12.17:33:18</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:28:10.0982840</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:48:15.2307910</RealTime>
+        </Time>
+        <Time id="46">
+          <RealTime>00:42:22.9785310</RealTime>
+        </Time>
+        <Time id="47">
+          <RealTime>01:31:59.5226520</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>00:29:27.0949120</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>01:23:39.8299980</RealTime>
+        </Time>
+        <Time id="67">
+          <RealTime>01:30:40.4821210</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

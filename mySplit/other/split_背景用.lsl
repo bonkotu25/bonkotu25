@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1224</X>
-  <Y>331</Y>
+  <X>1376</X>
+  <Y>211</Y>
   <VerticalWidth>398</VerticalWidth>
   <VerticalHeight>528</VerticalHeight>
-  <HorizontalWidth>3362</HorizontalWidth>
-  <HorizontalHeight>45</HorizontalHeight>
+  <HorizontalWidth>-1</HorizontalWidth>
+  <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
     <TextColor>FFEDF6F6</TextColor>
     <BackgroundColor>FF0F0F0F</BackgroundColor>
@@ -46,7 +46,7 @@
         <ShowGameName>True</ShowGameName>
         <ShowCategoryName>True</ShowCategoryName>
         <ShowAttemptCount>True</ShowAttemptCount>
-        <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
+        <ShowFinishedRunsCount>True</ShowFinishedRunsCount>
         <OverrideTitleFont>False</OverrideTitleFont>
         <OverrideTitleColor>False</OverrideTitleColor>
         <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></TitleFont>
@@ -174,6 +174,35 @@
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.Discord.dll</Path>
+      <Settings>
+        <Version>1.7</Version>
+        <Details>%game</Details>
+        <State>%category</State>
+        <largeImageKey>Attempt %attempts</largeImageKey>
+        <smallImageKey>%delta In %split</smallImageKey>
+        <DisplayElapsedTimeType>1</DisplayElapsedTimeType>
+        <EDetails>%inherit</EDetails>
+        <EState>%inherit</EState>
+        <ElargeImageKey>%inherit</ElargeImageKey>
+        <EsmallImageKey>%inherit</EsmallImageKey>
+        <PDetails>%inherit</PDetails>
+        <PState>%inherit</PState>
+        <PlargeImageKey>%inherit</PlargeImageKey>
+        <PsmallImageKey>%inherit</PsmallImageKey>
+        <NRDetails>%inherit</NRDetails>
+        <NRState>%inherit</NRState>
+        <NRlargeImageKey>%inherit</NRlargeImageKey>
+        <NRsmallImageKey>%inherit</NRsmallImageKey>
+        <NRClearActivity>False</NRClearActivity>
+        <SubSplitCount>False</SubSplitCount>
+        <Accuracy>Tenths</Accuracy>
+        <DropDecimals>True</DropDecimals>
+        <UseDash>False</UseDash>
+        <Comparison>Current Comparison</Comparison>
       </Settings>
     </Component>
   </Components>

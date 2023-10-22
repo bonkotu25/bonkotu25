@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Rune Factory 4</GameName>
-  <CategoryName>Beat 2nd arc</CategoryName>
+  <CategoryName>Beat 3rd arc</CategoryName>
   <LayoutPath>
   </LayoutPath>
   <Metadata>
@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>85</AttemptCount>
+  <AttemptCount>1</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="02/20/2022 16:46:57" isStartedSynced="True" ended="02/20/2022 16:47:24" isEndedSynced="True">
       <PauseTime>00:00:09.1240000</PauseTime>
@@ -171,12 +171,6 @@
     <Attempt id="77" started="09/22/2023 21:43:23" isStartedSynced="True" ended="09/23/2023 00:17:04" isEndedSynced="True">
       <RealTime>02:33:40.7444799</RealTime>
     </Attempt>
-    <Attempt id="78" started="09/29/2023 18:12:03" isStartedSynced="True" ended="09/29/2023 18:12:04" isEndedSynced="True" />
-    <Attempt id="79" started="09/29/2023 18:12:10" isStartedSynced="True" ended="09/29/2023 18:24:56" isEndedSynced="True" />
-    <Attempt id="80" started="09/29/2023 18:25:39" isStartedSynced="True" ended="09/29/2023 18:34:28" isEndedSynced="True" />
-    <Attempt id="81" started="09/29/2023 18:35:11" isStartedSynced="True" ended="09/29/2023 21:03:16" isEndedSynced="True">
-      <RealTime>02:28:04.0844180</RealTime>
-    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -310,9 +304,6 @@
         <Time id="77">
           <RealTime>00:18:24.5602318</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:18:51.1354792</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -416,9 +407,6 @@
         <Time id="77">
           <RealTime>00:23:27.9631978</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:20:24.2046143</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -430,7 +418,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:12:38.8014776</RealTime>
+        <RealTime>00:13:27.0817901</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-4">
@@ -517,9 +505,6 @@
         </Time>
         <Time id="77">
           <RealTime>00:16:01.6796067</RealTime>
-        </Time>
-        <Time id="81">
-          <RealTime>00:12:38.8014776</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -610,9 +595,6 @@
         <Time id="77">
           <RealTime>00:29:10.7268740</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:27:30.5713806</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -701,7 +683,6 @@
         <Time id="77">
           <RealTime>00:01:56.0925136</RealTime>
         </Time>
-        <Time id="81" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -786,9 +767,6 @@
         <Time id="77">
           <RealTime>00:08:19.2551982</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:10:36.5619361</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -872,9 +850,6 @@
         </Time>
         <Time id="77">
           <RealTime>00:05:14.2587932</RealTime>
-        </Time>
-        <Time id="81">
-          <RealTime>00:04:44.7339538</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -968,9 +943,6 @@
         <Time id="77">
           <RealTime>00:02:44.9289578</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:02:44.1459198</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1060,9 +1032,6 @@
         <Time id="77">
           <RealTime>00:00:24.4403363</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:00:37.2957971</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1145,9 +1114,6 @@
         </Time>
         <Time id="77">
           <RealTime>00:16:50.2399954</RealTime>
-        </Time>
-        <Time id="81">
-          <RealTime>00:17:24.4490794</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -1235,9 +1201,6 @@
         <Time id="77">
           <RealTime>00:07:20.1153158</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:07:25.5875584</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1321,9 +1284,6 @@
         <Time id="77">
           <RealTime>00:04:23.1861223</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:04:18.5224327</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1403,9 +1363,6 @@
         </Time>
         <Time id="77">
           <RealTime>00:04:52.4662553</RealTime>
-        </Time>
-        <Time id="81">
-          <RealTime>00:04:47.5945369</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -1490,9 +1447,6 @@
         <Time id="77">
           <RealTime>00:02:42.3772832</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:02:59.7977382</RealTime>
-        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1576,7 +1530,6 @@
         <Time id="77">
           <RealTime>00:03:28.7376668</RealTime>
         </Time>
-        <Time id="81" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1657,10 +1610,134 @@
         <Time id="77">
           <RealTime>00:08:19.7161317</RealTime>
         </Time>
-        <Time id="81">
-          <RealTime>00:13:00.6825139</RealTime>
-        </Time>
       </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>動く看板</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>思い出</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>グリモア</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>左之右之</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>サルコファガス</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ウーパードラゴン</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>オクトパイレーツ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ひのえきのと</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>セイレーン</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>デスウォール</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>エメラルドと愉快な仲間たち</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>終のもの</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>セルザ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>
+      </Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
   </Segments>
   <AutoSplitterSettings />

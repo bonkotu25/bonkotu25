@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Rune Factory 4</GameName>
+  <CategoryName>Beat 2nd arc</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>27</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/20/2022 16:46:57" isStartedSynced="True" ended="02/20/2022 16:47:24" isEndedSynced="True">
+      <PauseTime>00:00:09.1240000</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="08/19/2022 18:18:32" isStartedSynced="True" ended="08/19/2022 19:34:10" isEndedSynced="True" />
+    <Attempt id="3" started="08/20/2022 15:53:09" isStartedSynced="True" ended="08/20/2022 21:56:25" isEndedSynced="True">
+      <RealTime>06:03:15.8470000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="08/20/2022 22:40:03" isStartedSynced="True" ended="08/21/2022 05:46:14" isEndedSynced="True">
+      <PauseTime>05:19:43.5130000</PauseTime>
+    </Attempt>
+    <Attempt id="5" started="08/24/2022 11:25:23" isStartedSynced="True" ended="08/24/2022 13:45:30" isEndedSynced="True" />
+    <Attempt id="6" started="08/24/2022 15:12:22" isStartedSynced="True" ended="08/24/2022 15:12:29" isEndedSynced="True" />
+    <Attempt id="7" started="08/24/2022 15:12:53" isStartedSynced="True" ended="08/24/2022 19:10:15" isEndedSynced="True">
+      <PauseTime>00:10:57.9510000</PauseTime>
+    </Attempt>
+    <Attempt id="8" started="08/26/2022 17:03:00" isStartedSynced="True" ended="08/26/2022 17:03:04" isEndedSynced="True">
+      <PauseTime>00:00:03.5500000</PauseTime>
+    </Attempt>
+    <Attempt id="9" started="08/26/2022 17:03:31" isStartedSynced="True" ended="08/26/2022 20:37:11" isEndedSynced="True">
+      <RealTime>03:33:40.5730000</RealTime>
+    </Attempt>
+    <Attempt id="10" started="08/27/2022 17:42:51" isStartedSynced="True" ended="08/27/2022 20:43:26" isEndedSynced="True">
+      <RealTime>03:00:35.7570000</RealTime>
+    </Attempt>
+    <Attempt id="11" started="08/28/2022 14:25:28" isStartedSynced="True" ended="08/28/2022 14:30:26" isEndedSynced="True" />
+    <Attempt id="12" started="08/28/2022 14:30:55" isStartedSynced="True" ended="08/28/2022 17:24:25" isEndedSynced="True">
+      <RealTime>02:53:30.3770000</RealTime>
+    </Attempt>
+    <Attempt id="13" started="09/02/2022 18:22:40" isStartedSynced="True" ended="09/02/2022 21:17:49" isEndedSynced="True">
+      <RealTime>02:55:08.3490000</RealTime>
+    </Attempt>
+    <Attempt id="14" started="09/03/2022 15:01:19" isStartedSynced="True" ended="09/03/2022 15:17:12" isEndedSynced="True" />
+    <Attempt id="15" started="09/03/2022 15:20:09" isStartedSynced="True" ended="09/03/2022 15:41:51" isEndedSynced="True">
+      <PauseTime>00:00:34.6460000</PauseTime>
+    </Attempt>
+    <Attempt id="16" started="09/03/2022 15:42:32" isStartedSynced="True" ended="09/03/2022 15:42:37" isEndedSynced="True">
+      <PauseTime>00:00:03.2940000</PauseTime>
+    </Attempt>
+    <Attempt id="17" started="09/03/2022 16:05:34" isStartedSynced="True" ended="09/03/2022 16:13:54" isEndedSynced="True" />
+    <Attempt id="18" started="09/03/2022 16:14:31" isStartedSynced="True" ended="09/03/2022 16:18:24" isEndedSynced="True" />
+    <Attempt id="19" started="09/03/2022 16:19:21" isStartedSynced="True" ended="09/03/2022 16:24:23" isEndedSynced="True" />
+    <Attempt id="20" started="09/03/2022 16:24:43" isStartedSynced="True" ended="09/03/2022 16:56:23" isEndedSynced="True" />
+    <Attempt id="21" started="09/03/2022 16:58:26" isStartedSynced="True" ended="09/03/2022 19:31:54" isEndedSynced="True">
+      <RealTime>02:33:27.8870000</RealTime>
+    </Attempt>
+    <Attempt id="22" started="09/07/2022 14:53:31" isStartedSynced="True" ended="09/07/2022 14:53:43" isEndedSynced="True">
+      <PauseTime>00:00:06.6870000</PauseTime>
+    </Attempt>
+    <Attempt id="23" started="09/07/2022 14:58:20" isStartedSynced="True" ended="09/07/2022 15:10:32" isEndedSynced="True" />
+    <Attempt id="24" started="09/07/2022 15:11:52" isStartedSynced="True" ended="09/07/2022 15:23:34" isEndedSynced="True" />
+    <Attempt id="25" started="09/07/2022 15:24:45" isStartedSynced="True" ended="09/07/2022 18:02:25" isEndedSynced="True">
+      <RealTime>02:37:40.0880000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>アンブロシア</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:19:40.8270000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:12.5700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:46:14.6270000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:24:37.5450000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:24:18.3630000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:24:13.3150000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:25:28.3730000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:22:07.0840000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:23:24.8360000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:24:02.6640000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:22:31.7690000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:20:06.3650000</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:20:06.2580000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:19:40.8270000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:19:12.5700000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>ライデン</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:40:30.7280000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:03.2570000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:24:14.8220000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:19:03.2570000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:23:12.9970000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:23:25.9400000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:26:11.4360000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:22:24.8990000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:21:25.7840000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:22:45.4680000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:20:49.9010000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:20:46.3380000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>マリネッタ (含：レオンカルナク)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:55:21.4130000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:14:50.6850000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>08:19:57</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>01:01:52.8100000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:37:01.2530000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:36:10.1510000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:22:24.8110000</RealTime>
+        </Time>
+        <Time id="9" />
+        <Time id="10">
+          <RealTime>00:19:13.1300000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:19:34.5220000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:17:22.2150000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:14:50.6850000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:16:24.1290000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>デッドツリー</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:20:50.1850000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:25:28.7700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:25:28.7700000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:25:28.7700000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:48:12.6560000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>01:04:34.0250000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:32:44.6490000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:28:25.6870000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:33:06.3850000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:25:28.7720000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:25:43.7170000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>キメラ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:23:16.1620000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:38.6410000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:03:55.0180000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:38.6410000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:22.2650000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:02:19.0600000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:11.0250000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:05.7760000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:08.3450000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:02:25.9770000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:01:57.8080000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>ラフレシア(含:マーヤ山道)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:32:33.9350000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:03.8990000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>05:33:18</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:39:43.9310000</RealTime>
+        </Time>
+        <Time id="4" />
+        <Time id="7">
+          <RealTime>00:15:18.2340000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:08:59.5620000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:10:23.8610000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:10:32.8620000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:10:53.5260000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:09:17.7730000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:09:38.5660000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>ヘブンズゲート</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:37:33.4500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:27.9230000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:09:05.5400000</RealTime>
+        </Time>
+        <Time id="4" />
+        <Time id="7">
+          <RealTime>00:05:18.8190000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:05:41.4760000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:28.7390000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:05:20.3870000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:27.9230000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:04:59.5150000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:05:09.7460000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>左之右之</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:40:14.8130000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:39.1940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:04:56.1230000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:20:41.4650000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:05:00.0480000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:02:50.2810000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:39.7290000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:39.8400000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:47.1610000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:02:41.3630000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:02:39.1940000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>サルコファガス</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:40:42.2140000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:26.6550000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:11.9600000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:23.5560000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:50.8250000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:38.4960000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:27.6480000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:37.8340000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:26.6550000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:00:27.4010000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:00:27.3600000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>プロテクローン</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:59:42.3970000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:18:10.9290000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:53:46.4890000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:42:12.8530000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:27:20.7580000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:19:55.8340000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:18:10.9290000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:20:56.9390000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:19:00.1830000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:20:12.8820000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>フレクゲンガー</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:06:36.1120000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:42.1320000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:13:30.6940000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:21:45.7380000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:10:17.1570000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:08:03.8690000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:11:18.7170000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:09:09.2520000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:06:53.7150000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:06:42.1320000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>アクナトレース</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:11:48.5470000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:52.3140000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:19:34.4500000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:13:03.7430000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:06:06.0350000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:06:26.2650000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:05:41.3430000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:06:00.3160000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:05:12.4350000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:04:52.3140000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>要塞戦車改(下)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:16:20.2780000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:31.7310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:18:30.1440000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:05:43.4990000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:07:44.9340000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:06:24.0240000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:56.6260000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:04:31.7310000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:05:46.7550000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>ゼクスゴーレム(左)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:20:19.3360000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:40.5460000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:20:13.9860000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:12:22.3020000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:28.0830000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:40.5460000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:16.2020000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:03:59.0580000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:03:42.5300000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>タンクゼクス(右)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:24:47.8740000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:46.9550000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:22:12.4660000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:08:02.7960000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:21.4250000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:46.9550000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:51.5790000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:04:28.5380000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:05:36.7180000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>エゼルバード</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:33:27.8870000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:27.9880000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:36:03.1130000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:10:26.6060000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:11:36.8310000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:09:42.5070000</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:08:27.9880000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:08:40.0130000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:08:47.3290000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
