@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Harvest Moon: Animal Parade</GameName>
+  <CategoryName>Any%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>12</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/01/2023 23:12:16" isStartedSynced="True" ended="03/01/2023 23:12:17" isEndedSynced="True" />
+    <Attempt id="2" started="03/01/2023 23:12:32" isStartedSynced="True" ended="03/01/2023 23:12:45" isEndedSynced="True" />
+    <Attempt id="3" started="03/01/2023 23:13:12" isStartedSynced="True" ended="03/01/2023 23:14:13" isEndedSynced="True" />
+    <Attempt id="4" started="03/07/2023 21:02:56" isStartedSynced="True" ended="03/07/2023 21:09:23" isEndedSynced="True" />
+    <Attempt id="5" started="03/07/2023 21:12:53" isStartedSynced="True" ended="03/07/2023 21:15:41" isEndedSynced="True" />
+    <Attempt id="6" started="03/07/2023 21:22:50" isStartedSynced="True" ended="03/07/2023 21:23:13" isEndedSynced="True" />
+    <Attempt id="7" started="11/18/2023 17:04:20" isStartedSynced="True" ended="11/19/2023 05:46:14" isEndedSynced="True">
+      <PauseTime>06:38:15.8285735</PauseTime>
+    </Attempt>
+    <Attempt id="8" started="11/21/2023 17:27:58" isStartedSynced="True" ended="11/21/2023 20:32:55" isEndedSynced="True">
+      <PauseTime>00:20:40.6243267</PauseTime>
+    </Attempt>
+    <Attempt id="9" started="11/22/2023 17:42:50" isStartedSynced="True" ended="11/22/2023 17:42:51" isEndedSynced="True" />
+    <Attempt id="10" started="11/22/2023 17:43:44" isStartedSynced="True" ended="11/23/2023 00:03:40" isEndedSynced="True">
+      <PauseTime>00:20:25.8592517</PauseTime>
+    </Attempt>
+    <Attempt id="11" started="11/26/2023 18:42:17" isStartedSynced="True" ended="11/26/2023 18:42:18" isEndedSynced="True">
+      <PauseTime>00:00:01.3508661</PauseTime>
+    </Attempt>
+    <Attempt id="12" started="11/26/2023 18:42:25" isStartedSynced="True" ended="11/26/2023 22:24:42" isEndedSynced="True">
+      <PauseTime>00:12:45.0392968</PauseTime>
+    </Attempt>
+    <Attempt id="13" started="12/02/2023 17:24:04" isStartedSynced="True" ended="12/02/2023 17:24:06" isEndedSynced="True" />
+    <Attempt id="14" started="12/02/2023 17:26:22" isStartedSynced="True" ended="12/02/2023 17:27:21" isEndedSynced="True" />
+    <Attempt id="15" started="12/02/2023 17:27:57" isStartedSynced="True" ended="12/03/2023 02:14:45" isEndedSynced="True">
+      <RealTime>08:46:47.5967254</RealTime>
+    </Attempt>
+    <Attempt id="16" started="01/01/2024 14:27:06" isStartedSynced="True" ended="01/01/2024 20:37:46" isEndedSynced="True">
+      <PauseTime>00:39:33.2306699</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>つりざおをもらう</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>虚無(ハモニカタウンあいさつ回り)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:38.9443658</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:05:38.9443658</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>01:05:38.9443658</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>01:06:53.6859109</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>橋の修理</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:13:19.9580561</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:41.0136903</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:07:41.0136903</RealTime>
+        </Time>
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>1st BELL</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:55:24.3105427</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:42:04.3524866</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>01:42:04.3524866</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>02:02:56.9753765</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2nd BELL</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:23:37.8867792</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:28:13.5762365</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:28:13.5762365</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>01:05:19.5003072</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>3rd BELL</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:12:24.9253589</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:57.8203454</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:48:47.0385797</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:08:57.8203454</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>冬突入</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>GREEN BELL</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:28:19.1061376</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:06:35.4453832</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>01:15:54.1807787</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>01:06:35.4453832</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>PURPLE BELL</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:22:18.3034759</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>02:53:59.1973383</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>02:53:59.1973383</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>女神様</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:46:46.1400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:24:27.8365241</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>00:24:29.2932495</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Rune Factory</GameName>
+  <CategoryName>Any% Glitched</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>6</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="11/07/2023 17:13:23" isStartedSynced="True" ended="11/07/2023 17:51:07" isEndedSynced="True" />
+    <Attempt id="2" started="11/07/2023 18:21:05" isStartedSynced="True" ended="11/07/2023 18:32:20" isEndedSynced="True" />
+    <Attempt id="3" started="11/07/2023 18:32:22" isStartedSynced="True" ended="11/07/2023 18:51:44" isEndedSynced="True" />
+    <Attempt id="4" started="11/12/2023 19:40:06" isStartedSynced="True" ended="11/12/2023 19:40:07" isEndedSynced="True">
+      <PauseTime>00:00:00.7501172</PauseTime>
+    </Attempt>
+    <Attempt id="5" started="11/12/2023 19:40:11" isStartedSynced="True" ended="11/12/2023 21:10:10" isEndedSynced="True">
+      <PauseTime>00:47:32.5997463</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>ED</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>11.13:46:39</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>11.13:46:39</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-6">
+          <RealTime>11.13:46:39</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
