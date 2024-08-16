@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>P1_サッカーボーイ</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P1_レインボーガール</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P2_グウタラサン</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P3_ウキワクン</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P5_オハナセンセイ(628flowers)</Name>
+      <Note>628花</Note>
+    </Split>
+    <Split>
+      <Name>P4_あの太陽を + P5_ジェントルサン</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P6_シンマイキョウシ</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P6_カタヅケサン</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P6_カタマリハカセ</Name>
+      <Note>152友でクリア</Note>
+    </Split>
+    <Split>
+      <Name>P5_ユキンコ</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P4_オババ</Name>
+      <Note>4m00cm4mm  ：アカダマ
+4m76cm0mm  ：スイカ
+5m80cm0mm  ：テッコツ
+
+</Note>
+    </Split>
+    <Split>
+      <Name>P3_エフワンレーサー</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P3_キャンプマン</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P2_ヘンゼル・グレーテル</Name>
+      <Note>130cm で取得可能</Note>
+    </Split>
+    <Split>
+      <Name>P2_ツルボウシ</Name>
+      <Note>621ツル以上でクリア確認</Note>
+    </Split>
+    <Split>
+      <Name>P1_ワクワクベビー</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P1_ミニスモウトリ</Name>
+      <Note>135kg</Note>
+    </Split>
+    <Split>
+      <Name>P6_ウシクマサン + P5_ベンキョウクン</Name>
+      <Note>1m50cmでクリア</Note>
+    </Split>
+    <Split>
+      <Name>P4_ぴったりガール</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P4_ボキンサン</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>P3_トリ＆ゾウ</Name>
+      <Note>3m80cm：ポール</Note>
+    </Split>
+    <Split>
+      <Name>P2_アマガッパ(53雲)</Name>
+      <Note>53雲</Note>
+    </Split>
+    <Split>
+      <Name>P4_Roll Up The Sun(43星)</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>We Love Katamari REROLL+ Royal Reverie</Name>
+  <Category>Roll Up the Sun (no boost)</Category>
+</Guide>

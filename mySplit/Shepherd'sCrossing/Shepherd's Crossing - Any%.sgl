@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>ウサギ</Name>
+      <Note>マーモットに肉→キャベツ・ベリー
+
+キャベツを食べさせるタイミング注意</Note>
+    </Split>
+    <Split>
+      <Name>麦</Name>
+      <Note>ウサギの毛→ムギ種2つ
+キャベツ→いぬ
+ウサギ→肉</Note>
+    </Split>
+    <Split>
+      <Name>イノシシ</Name>
+      <Note>ムギ2つ→フェレット
+毛皮→イノシシ
+毛皮→ハム干し箱
+
+フェレットが意外とすぐ死ぬ</Note>
+    </Split>
+    <Split>
+      <Name>ぶどう</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>ワイン</Name>
+      <Note>ワイン樽の有効範囲がめっちゃ狭い</Note>
+    </Split>
+  </Splits>
+  <Name>Shepherd's Crossing</Name>
+  <Category>Any%</Category>
+</Guide>
