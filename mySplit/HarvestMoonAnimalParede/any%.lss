@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>12</AttemptCount>
+  <AttemptCount>28</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/01/2023 23:12:16" isStartedSynced="True" ended="03/01/2023 23:12:17" isEndedSynced="True" />
     <Attempt id="2" started="03/01/2023 23:12:32" isStartedSynced="True" ended="03/01/2023 23:12:45" isEndedSynced="True" />
@@ -46,37 +46,89 @@
     <Attempt id="16" started="01/01/2024 14:27:06" isStartedSynced="True" ended="01/01/2024 20:37:46" isEndedSynced="True">
       <PauseTime>00:39:33.2306699</PauseTime>
     </Attempt>
+    <Attempt id="17" started="08/31/2024 18:38:23" isStartedSynced="True" ended="08/31/2024 18:38:24" isEndedSynced="True" />
+    <Attempt id="18" started="09/06/2024 19:04:29" isStartedSynced="True" ended="09/06/2024 19:04:30" isEndedSynced="True" />
+    <Attempt id="19" started="09/06/2024 19:04:36" isStartedSynced="True" ended="09/07/2024 00:55:23" isEndedSynced="True">
+      <PauseTime>00:33:47.9579433</PauseTime>
+    </Attempt>
+    <Attempt id="20" started="09/07/2024 18:09:14" isStartedSynced="True" ended="09/07/2024 18:09:17" isEndedSynced="True" />
+    <Attempt id="21" started="09/07/2024 18:09:24" isStartedSynced="True" ended="09/08/2024 02:42:33" isEndedSynced="True">
+      <RealTime>08:33:07.6896598</RealTime>
+    </Attempt>
+    <Attempt id="22" started="09/08/2024 15:52:37" isStartedSynced="True" ended="09/08/2024 15:52:38" isEndedSynced="True" />
+    <Attempt id="23" started="09/08/2024 15:56:01" isStartedSynced="True" ended="09/08/2024 16:14:37" isEndedSynced="True" />
+    <Attempt id="24" started="09/08/2024 16:15:31" isStartedSynced="True" ended="09/09/2024 00:07:25" isEndedSynced="True">
+      <RealTime>07:51:52.4177810</RealTime>
+    </Attempt>
+    <Attempt id="25" started="09/16/2024 10:19:03" isStartedSynced="True" ended="09/16/2024 10:19:04" isEndedSynced="True" />
+    <Attempt id="26" started="09/16/2024 10:19:26" isStartedSynced="True" ended="09/16/2024 14:43:21" isEndedSynced="True">
+      <PauseTime>01:02:05.5079270</PauseTime>
+    </Attempt>
+    <Attempt id="27" started="09/16/2024 19:40:39" isStartedSynced="True" ended="09/17/2024 03:48:46" isEndedSynced="True">
+      <RealTime>08:08:05.9461814</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>つりざおをもらう</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory>
-        <Time id="15" />
-        <Time id="16" />
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>虚無(ハモニカタウンあいさつ回り)</Name>
+      <Name>つりざお</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:05:38.9443658</RealTime>
+          <RealTime>00:15:13.4849144</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>01:05:38.9443658</RealTime>
+        <RealTime>00:14:33.1652709</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="15">
-          <RealTime>01:05:38.9443658</RealTime>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="19">
+          <RealTime>00:14:58.7172223</RealTime>
         </Time>
-        <Time id="16">
-          <RealTime>01:06:53.6859109</RealTime>
+        <Time id="21">
+          <RealTime>00:14:53.2274430</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:15:10.9163470</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:15:13.4849144</RealTime>
+        </Time>
+        <Time id="26" />
+        <Time id="27">
+          <RealTime>00:14:33.1652709</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>酪農祭(傑作バター)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:26.9352018</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:27:13.4502874</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="19">
+          <RealTime>00:29:37.9000569</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:29:54.7912937</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:27:13.4502874</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:45:29.5345703</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:30:17.0691836</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -85,45 +137,106 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:13:19.9580561</RealTime>
+          <RealTime>01:15:13.6053131</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:07:41.0136903</RealTime>
+        <RealTime>00:30:29.2539676</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="15">
-          <RealTime>00:07:41.0136903</RealTime>
+          <RealTime>01:13:19.9580561</RealTime>
         </Time>
         <Time id="16" />
+        <Time id="19">
+          <RealTime>00:32:08.6851875</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:31:11.7069456</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:32:46.6701113</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:30:31.8204710</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:30:29.2539676</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>1st BELL</Name>
+      <Name>女神様</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:55:24.3105427</RealTime>
+          <RealTime>01:35:41.0170857</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>01:42:04.3524866</RealTime>
+        <RealTime>00:18:58.1305160</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="19">
+          <RealTime>00:19:54.6176281</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:20:47.4289395</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:20:27.4117726</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:21:34.0740492</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:18:58.1305160</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>黄の鐘</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:42:26.5892829</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:02:18.3258262</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="15">
           <RealTime>01:42:04.3524866</RealTime>
         </Time>
         <Time id="16">
-          <RealTime>02:02:56.9753765</RealTime>
+          <RealTime>03:09:50.6612874</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>01:27:57.9112818</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>01:02:18.3258262</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>01:06:45.5721972</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>01:10:11.2807515</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>01:03:29.9879194</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>2nd BELL</Name>
+      <Name>青の鐘</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>03:23:37.8867792</RealTime>
+          <RealTime>03:37:30.8075223</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -136,91 +249,132 @@
         <Time id="16">
           <RealTime>01:05:19.5003072</RealTime>
         </Time>
+        <Time id="19">
+          <RealTime>01:09:39.5616564</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:41:51.3458537</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:55:04.2182394</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:33:54.4644554</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:48:32.1658912</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>3rd BELL</Name>
+      <Name>収穫祭(ポンタタの根,傑作とうもろこし粉)</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:12:24.9253589</RealTime>
+          <RealTime>04:13:17.0719767</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:08:57.8203454</RealTime>
+        <RealTime>00:35:46.2644544</RealTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="15">
-          <RealTime>00:48:47.0385797</RealTime>
-        </Time>
-        <Time id="16">
-          <RealTime>00:08:57.8203454</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>冬突入</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
       <SegmentHistory>
         <Time id="15" />
         <Time id="16" />
+        <Time id="19">
+          <RealTime>00:48:52.4932284</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:56:31.0855026</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:35:46.2644544</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:53:09.1722825</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>GREEN BELL</Name>
+      <Name>緑の鐘</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:28:19.1061376</RealTime>
+          <RealTime>04:46:39.5622008</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>01:06:35.4453832</RealTime>
+        <RealTime>00:31:44.4923821</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="15">
-          <RealTime>01:15:54.1807787</RealTime>
+          <RealTime>02:04:41.2193584</RealTime>
         </Time>
         <Time id="16">
-          <RealTime>01:06:35.4453832</RealTime>
+          <RealTime>01:15:33.2657286</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:31:44.4923821</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:33:22.4902241</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:33:13.7981708</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>PURPLE BELL</Name>
+      <Name>紫の鐘</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>08:22:18.3034759</RealTime>
+          <RealTime>07:31:23.4296317</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>02:53:59.1973383</RealTime>
+        <RealTime>02:44:43.8674309</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="15">
           <RealTime>02:53:59.1973383</RealTime>
         </Time>
+        <Time id="21">
+          <RealTime>03:22:18.3343746</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>02:44:43.8674309</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>02:51:24.9051897</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>女神様</Name>
+      <Name>女神様の樹復活</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>08:46:46.1400000</RealTime>
+          <RealTime>07:51:52.4177810</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:24:27.8365241</RealTime>
+        <RealTime>00:20:28.9881493</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:24:27.8365241</RealTime>
+        </Time>
         <Time id="15">
           <RealTime>00:24:29.2932495</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:21:36.9510988</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:20:28.9881493</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:23:58.2977897</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
