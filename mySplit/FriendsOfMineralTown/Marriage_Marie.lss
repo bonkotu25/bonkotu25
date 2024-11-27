@@ -13,8 +13,8 @@
     </Region>
     <Variables />
   </Metadata>
-  <Offset>00:00:00</Offset>
-  <AttemptCount>5</AttemptCount>
+  <Offset>00:15:00</Offset>
+  <AttemptCount>6</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="10/03/2024 15:10:02" isStartedSynced="True" ended="10/03/2024 16:19:52" isEndedSynced="True">
       <PauseTime>01:05:11.7678335</PauseTime>
@@ -27,21 +27,27 @@
     <Attempt id="5" started="10/05/2024 16:14:26" isStartedSynced="True" ended="10/05/2024 18:20:46" isEndedSynced="True">
       <PauseTime>01:52:20.8909281</PauseTime>
     </Attempt>
+    <Attempt id="6" started="10/06/2024 15:56:36" isStartedSynced="True" ended="10/06/2024 17:20:37" isEndedSynced="True">
+      <RealTime>01:36:57.8060714</RealTime>
+      <PauseTime>00:02:03.5727793</PauseTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>春競馬</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>02:46:39</RealTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>02:46:39</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2" />
+        <Time id="0">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="6" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -49,15 +55,18 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>05:16:39</RealTime>
+          <RealTime>00:18:38.3384954</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>02:30:00</RealTime>
+        <RealTime>00:18:38.3384954</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
           <RealTime>02:30:00</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:18:38.3384954</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -66,15 +75,21 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>1.09:03:18</RealTime>
+          <RealTime>00:29:33.0415900</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>02:46:39</RealTime>
+        <RealTime>00:10:54.7030946</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
           <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>1.03:46:39</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:10:54.7030946</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -83,15 +98,18 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>1.11:49:57</RealTime>
+          <RealTime>00:38:42.5079784</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>02:46:39</RealTime>
+        <RealTime>00:09:09.4663884</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
           <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:09:09.4663884</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -99,9 +117,7 @@
       <Name>青(好感度20000)</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>1.14:36:36</RealTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>02:46:39</RealTime>
@@ -110,6 +126,7 @@
         <Time id="2">
           <RealTime>02:46:39</RealTime>
         </Time>
+        <Time id="6" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -117,15 +134,18 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>1.17:23:15</RealTime>
+          <RealTime>01:15:53.9922662</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>02:46:39</RealTime>
+        <RealTime>00:37:11.4842878</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
           <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:37:11.4842878</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -133,40 +153,57 @@
       <Name>橙(好感度50000)</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>1.20:09:54</RealTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>02:46:39</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="6" />
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>プロポーズ</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>1.22:56:33</RealTime>
+          <RealTime>01:35:56.8939904</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>02:46:39</RealTime>
+        <RealTime>00:20:02.9017242</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:20:02.9017242</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>結婚式</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>2.01:43:12</RealTime>
+          <RealTime>01:36:57.8060714</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>02:46:39</RealTime>
+        <RealTime>00:01:00.9120810</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:01:00.9120810</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />

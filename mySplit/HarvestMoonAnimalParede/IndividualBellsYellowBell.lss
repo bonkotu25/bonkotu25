@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Harvest Moon: Animal Parade</GameName>
-  <CategoryName>Individual Bells Red Bell</CategoryName>
+  <CategoryName>Individual Bells Yellow Bell</CategoryName>
   <LayoutPath>
   </LayoutPath>
   <Metadata>
@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>8</AttemptCount>
+  <AttemptCount>4</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/01/2023 23:12:16" isStartedSynced="True" ended="03/01/2023 23:12:17" isEndedSynced="True" />
     <Attempt id="2" started="03/01/2023 23:12:32" isStartedSynced="True" ended="03/01/2023 23:12:45" isEndedSynced="True" />
@@ -37,14 +37,6 @@
     <Attempt id="15" started="01/08/2024 14:19:41" isStartedSynced="True" ended="01/08/2024 15:27:11" isEndedSynced="True" />
     <Attempt id="16" started="01/08/2024 15:27:47" isStartedSynced="True" ended="01/08/2024 15:28:37" isEndedSynced="True" />
     <Attempt id="17" started="01/08/2024 15:29:28" isStartedSynced="True" ended="01/08/2024 17:06:26" isEndedSynced="True" />
-    <Attempt id="18" started="10/19/2024 11:36:14" isStartedSynced="True" ended="10/19/2024 11:36:16" isEndedSynced="True" />
-    <Attempt id="19" started="10/19/2024 11:38:41" isStartedSynced="True" ended="10/19/2024 13:23:41" isEndedSynced="True">
-      <RealTime>01:45:00.3422046</RealTime>
-    </Attempt>
-    <Attempt id="20" started="10/19/2024 14:03:17" isStartedSynced="True" ended="10/19/2024 14:03:18" isEndedSynced="True" />
-    <Attempt id="21" started="10/19/2024 14:03:33" isStartedSynced="True" ended="10/19/2024 15:11:24" isEndedSynced="True">
-      <RealTime>01:07:50.3175550</RealTime>
-    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -54,10 +46,7 @@
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime />
-      <SegmentHistory>
-        <Time id="19" />
-        <Time id="21" />
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>橋の修理</Name>
@@ -66,30 +55,16 @@
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime />
-      <SegmentHistory>
-        <Time id="19" />
-        <Time id="21" />
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Red Bell</Name>
+      <Name>yellow Bell</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>01:07:50.3175550</RealTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>01:07:50.3175550</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="19">
-          <RealTime>01:45:00.3422046</RealTime>
-        </Time>
-        <Time id="21">
-          <RealTime>01:07:50.3175550</RealTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
   </Segments>
   <AutoSplitterSettings />
