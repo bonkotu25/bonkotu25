@@ -8,7 +8,7 @@
 
 | ゲームタイトル                | (英語名)                                  | Category                   | Platform | タイム   | URL                                              | 
 | ----------------------------- | ----------------------------------------- | -------------------------- | -------- | -------- | ------------------------------------------------ | 
-| 牧場物語 再会のミネラルタウン | Story of Seasons: Friends of Mineral Town | Marriage Karen             | PC       | 1h04m41s | https://www.youtube.com/watch?v=kkM9YGvh588      | 
+| 牧場物語 再会のミネラルタウン | Story of Seasons: Friends of Mineral Town | Marriage Karen             | PC       | 1h04m41s | <https://www.youtube.com/watch?v=kkM9YGvh588>      |
 | 牧場物語 再会のミネラルタウン | Story of Seasons: Friends of Mineral Town | Marriage Ran               | PC       | 1h01m50s | https://www.twitch.tv/videos/1509209449?t=0h0m1s | 
 | 牧場物語 再会のミネラルタウン | Story of Seasons: Friends of Mineral Town | Marriage Elly              | PC       | 1h20m16s | https://www.twitch.tv/videos/1484889783?t=0h0m1s | 
 | 牧場物語 再会のミネラルタウン | Story of Seasons: Friends of Mineral Town | Any%                       | PC       | 1m03s    | https://www.twitch.tv/videos/1478698740?t=0h0m1s | 
