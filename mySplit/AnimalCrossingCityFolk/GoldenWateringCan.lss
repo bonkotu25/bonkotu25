@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Animal Crossing: City Folk</GameName>
-  <CategoryName>First Debt</CategoryName>
+  <CategoryName>Golden Watering Can</CategoryName>
   <LayoutPath>
   </LayoutPath>
   <Metadata>
@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>254</AttemptCount>
+  <AttemptCount>16</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="01/14/2023 19:13:50" isStartedSynced="True" ended="01/14/2023 19:16:58" isEndedSynced="True" />
     <Attempt id="2" started="01/14/2023 19:17:06" isStartedSynced="True" ended="01/14/2023 19:23:33" isEndedSynced="True" />
@@ -317,14 +317,40 @@
     <Attempt id="251" started="12/31/2024 14:20:41" isStartedSynced="True" ended="12/31/2024 14:37:38" isEndedSynced="True">
       <RealTime>00:16:57.1386278</RealTime>
     </Attempt>
+    <Attempt id="252" started="01/02/2025 14:53:27" isStartedSynced="True" ended="01/02/2025 14:53:29" isEndedSynced="True" />
+    <Attempt id="253" started="01/02/2025 15:12:00" isStartedSynced="True" ended="01/02/2025 15:13:49" isEndedSynced="True" />
+    <Attempt id="254" started="01/02/2025 15:13:52" isStartedSynced="True" ended="01/02/2025 17:37:14" isEndedSynced="True">
+      <PauseTime>00:12:01.3728568</PauseTime>
+    </Attempt>
+    <Attempt id="255" started="01/03/2025 07:18:08" isStartedSynced="True" ended="01/03/2025 07:19:42" isEndedSynced="True" />
+    <Attempt id="256" started="01/03/2025 07:19:48" isStartedSynced="True" ended="01/03/2025 09:55:53" isEndedSynced="True">
+      <RealTime>02:36:03.7336665</RealTime>
+    </Attempt>
+    <Attempt id="257" started="01/03/2025 12:52:52" isStartedSynced="True" ended="01/03/2025 12:53:28" isEndedSynced="True" />
+    <Attempt id="258" started="01/03/2025 12:53:45" isStartedSynced="True" ended="01/03/2025 14:41:41" isEndedSynced="True">
+      <RealTime>01:47:56.1673904</RealTime>
+    </Attempt>
+    <Attempt id="259" started="01/05/2025 12:01:45" isStartedSynced="True" ended="01/05/2025 12:02:53" isEndedSynced="True" />
+    <Attempt id="260" started="01/05/2025 12:03:07" isStartedSynced="True" ended="01/05/2025 12:13:19" isEndedSynced="True" />
+    <Attempt id="261" started="01/05/2025 12:16:35" isStartedSynced="True" ended="01/05/2025 14:07:33" isEndedSynced="True">
+      <RealTime>01:50:57.6492031</RealTime>
+    </Attempt>
+    <Attempt id="262" started="01/05/2025 14:10:06" isStartedSynced="True" ended="01/05/2025 14:11:15" isEndedSynced="True" />
+    <Attempt id="263" started="01/05/2025 14:11:41" isStartedSynced="True" ended="01/05/2025 14:12:52" isEndedSynced="True" />
+    <Attempt id="264" started="01/05/2025 14:13:05" isStartedSynced="True" ended="01/05/2025 14:13:09" isEndedSynced="True" />
+    <Attempt id="265" started="01/05/2025 14:13:11" isStartedSynced="True" ended="01/05/2025 14:14:11" isEndedSynced="True" />
+    <Attempt id="266" started="01/05/2025 14:14:25" isStartedSynced="True" ended="01/05/2025 14:15:47" isEndedSynced="True" />
+    <Attempt id="267" started="01/05/2025 14:16:15" isStartedSynced="True" ended="01/05/2025 15:30:29" isEndedSynced="True">
+      <PauseTime>00:06:11.7750184</PauseTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
-      <Name>バイト終了!</Name>
+      <Name>31/4/13(イースター) バイト完了</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:11:22.4944310</RealTime>
+          <RealTime>00:19:04.4005987</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -403,20 +429,36 @@
           <RealTime>00:12:32.1345926</RealTime>
         </Time>
         <Time id="251" />
+        <Time id="254">
+          <RealTime>00:13:47.4667361</RealTime>
+        </Time>
+        <Time id="256" />
+        <Time id="258">
+          <RealTime>00:19:04.4005987</RealTime>
+        </Time>
+        <Time id="261">
+          <RealTime>00:18:13.8948383</RealTime>
+        </Time>
+        <Time id="267">
+          <RealTime>00:19:33.4416468</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>借金返済！</Name>
+      <Name>当たり券2枚売却</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:14:39.7590370</RealTime>
+          <RealTime>00:20:58.5981233</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:10.5527660</RealTime>
+        <RealTime>00:01:54.1975246</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
+        <Time id="-2">
+          <RealTime>00:03:17.2646060</RealTime>
+        </Time>
         <Time id="-1">
           <RealTime>00:03:31.7991510</RealTime>
         </Time>
@@ -497,6 +539,55 @@
         </Time>
         <Time id="251">
           <RealTime>00:16:57.1386278</RealTime>
+        </Time>
+        <Time id="254">
+          <RealTime>00:04:14.9058759</RealTime>
+        </Time>
+        <Time id="256">
+          <RealTime>00:29:41.4002618</RealTime>
+        </Time>
+        <Time id="258">
+          <RealTime>00:01:54.1975246</RealTime>
+        </Time>
+        <Time id="261">
+          <RealTime>00:03:56.2666279</RealTime>
+        </Time>
+        <Time id="267" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>30/12/25 5:59 金スコップ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:01.6220296</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="254">
+          <RealTime>00:02:01.6220296</RealTime>
+        </Time>
+        <Time id="267">
+          <RealTime>00:05:17.2316582</RealTime>
+        </Time>
+        <Time id="261" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>金ジョウロ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:47:56.1673904</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:26:57.5692671</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="261">
+          <RealTime>01:28:47.4877369</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

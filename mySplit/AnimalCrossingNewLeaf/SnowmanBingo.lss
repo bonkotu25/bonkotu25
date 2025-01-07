@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>25</AttemptCount>
+  <AttemptCount>37</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="01/14/2023 19:13:50" isStartedSynced="True" ended="01/14/2023 19:16:58" isEndedSynced="True" />
     <Attempt id="2" started="01/14/2023 19:17:06" isStartedSynced="True" ended="01/14/2023 19:23:33" isEndedSynced="True" />
@@ -351,6 +351,20 @@
     </Attempt>
     <Attempt id="270" started="11/06/2023 18:07:36" isStartedSynced="True" ended="11/06/2023 18:16:32" isEndedSynced="True" />
     <Attempt id="271" started="11/06/2023 18:17:07" isStartedSynced="True" ended="11/06/2023 18:27:35" isEndedSynced="True" />
+    <Attempt id="272" started="01/01/2025 10:11:24" isStartedSynced="True" ended="01/01/2025 10:11:25" isEndedSynced="True" />
+    <Attempt id="273" started="01/01/2025 10:11:32" isStartedSynced="True" ended="01/01/2025 10:11:36" isEndedSynced="True" />
+    <Attempt id="274" started="01/01/2025 10:12:34" isStartedSynced="True" ended="01/01/2025 10:13:07" isEndedSynced="True" />
+    <Attempt id="275" started="01/01/2025 10:14:46" isStartedSynced="True" ended="01/01/2025 10:47:12" isEndedSynced="True" />
+    <Attempt id="276" started="01/02/2025 11:03:58" isStartedSynced="True" ended="01/02/2025 11:03:58" isEndedSynced="True" />
+    <Attempt id="277" started="01/02/2025 11:04:40" isStartedSynced="True" ended="01/02/2025 11:05:57" isEndedSynced="True" />
+    <Attempt id="278" started="01/02/2025 11:06:21" isStartedSynced="True" ended="01/02/2025 11:35:42" isEndedSynced="True">
+      <RealTime>00:29:20.4389155</RealTime>
+    </Attempt>
+    <Attempt id="279" started="01/02/2025 11:50:13" isStartedSynced="True" ended="01/02/2025 12:04:19" isEndedSynced="True" />
+    <Attempt id="280" started="01/02/2025 12:06:02" isStartedSynced="True" ended="01/02/2025 12:32:40" isEndedSynced="True" />
+    <Attempt id="281" started="01/02/2025 12:49:59" isStartedSynced="True" ended="01/02/2025 13:00:05" isEndedSynced="True" />
+    <Attempt id="282" started="01/02/2025 13:02:46" isStartedSynced="True" ended="01/02/2025 13:14:56" isEndedSynced="True" />
+    <Attempt id="283" started="01/02/2025 13:19:42" isStartedSynced="True" ended="01/02/2025 13:45:48" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -358,7 +372,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:06:05.9357357</RealTime>
+          <RealTime>00:06:24.8918325</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -431,6 +445,27 @@
         <Time id="271">
           <RealTime>00:06:01.0027946</RealTime>
         </Time>
+        <Time id="275">
+          <RealTime>00:06:57.1973548</RealTime>
+        </Time>
+        <Time id="279">
+          <RealTime>00:06:13.7944957</RealTime>
+        </Time>
+        <Time id="278">
+          <RealTime>00:06:24.8918325</RealTime>
+        </Time>
+        <Time id="280">
+          <RealTime>00:06:40.5636151</RealTime>
+        </Time>
+        <Time id="281">
+          <RealTime>00:06:29.2289019</RealTime>
+        </Time>
+        <Time id="282">
+          <RealTime>00:06:55.6446189</RealTime>
+        </Time>
+        <Time id="283">
+          <RealTime>00:06:46.1318746</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -438,11 +473,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:30:03.6357033</RealTime>
+          <RealTime>00:29:20.4389155</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:23:57.6999676</RealTime>
+        <RealTime>00:22:55.5470830</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="18">
@@ -534,6 +569,9 @@
         </Time>
         <Time id="269">
           <RealTime>00:28:42.3608580</RealTime>
+        </Time>
+        <Time id="278">
+          <RealTime>00:22:55.5470830</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
