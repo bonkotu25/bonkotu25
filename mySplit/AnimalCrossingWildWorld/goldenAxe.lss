@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Animal Crossing: Wild World</GameName>
+  <CategoryName>Golden Axe</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="288" started="01/19/2025 15:23:39" isStartedSynced="True" ended="01/19/2025 16:06:39" isEndedSynced="True">
+      <RealTime>00:42:59.8215171</RealTime>
+    </Attempt>
+    <Attempt id="289" started="01/19/2025 16:18:48" isStartedSynced="True" ended="01/19/2025 16:58:46" isEndedSynced="True">
+      <RealTime>00:39:57.8924298</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>バイト</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:01.3848255</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:14:01.3848255</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="286">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="288">
+          <RealTime>00:16:22.3842590</RealTime>
+        </Time>
+        <Time id="289">
+          <RealTime>00:14:01.3848255</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>ケな/すっ/あっ/いっ/うっ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>02:46:39</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>02:46:39</RealTime>
+        </Time>
+        <Time id="288" />
+        <Time id="289" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>GoldenAXE</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:39:57.8924298</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:25:56.5076043</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>11.11:00:00</RealTime>
+        </Time>
+        <Time id="288">
+          <RealTime>00:26:37.4372581</RealTime>
+        </Time>
+        <Time id="289">
+          <RealTime>00:25:56.5076043</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
