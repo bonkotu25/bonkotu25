@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>19</AttemptCount>
+  <AttemptCount>28</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="02/20/2022 16:46:57" isStartedSynced="True" ended="02/20/2022 16:47:24" isEndedSynced="True">
       <PauseTime>00:00:09.1240000</PauseTime>
@@ -64,16 +64,35 @@
     <Attempt id="20" started="11/20/2024 23:50:07" isStartedSynced="True" ended="11/21/2024 00:42:16" isEndedSynced="True">
       <PauseTime>00:32:14.4180110</PauseTime>
     </Attempt>
+    <Attempt id="21" started="02/09/2025 14:27:26" isStartedSynced="True" ended="02/09/2025 14:27:27" isEndedSynced="True" />
+    <Attempt id="22" started="02/09/2025 14:27:36" isStartedSynced="True" ended="02/09/2025 16:15:06" isEndedSynced="True">
+      <PauseTime>00:06:46.5975531</PauseTime>
+    </Attempt>
+    <Attempt id="23" started="02/10/2025 00:05:28" isStartedSynced="True" ended="02/10/2025 00:05:30" isEndedSynced="True" />
+    <Attempt id="24" started="02/10/2025 00:05:38" isStartedSynced="True" ended="02/10/2025 00:05:39" isEndedSynced="True" />
+    <Attempt id="25" started="02/10/2025 00:07:25" isStartedSynced="True" ended="02/10/2025 00:48:01" isEndedSynced="True">
+      <PauseTime>00:22:29.9886886</PauseTime>
+    </Attempt>
+    <Attempt id="26" started="02/11/2025 05:38:54" isStartedSynced="True" ended="02/11/2025 05:56:38" isEndedSynced="True" />
+    <Attempt id="27" started="02/11/2025 05:57:10" isStartedSynced="True" ended="02/11/2025 10:02:30" isEndedSynced="True">
+      <RealTime>04:05:19.7960852</RealTime>
+    </Attempt>
+    <Attempt id="28" started="02/11/2025 23:13:55" isStartedSynced="True" ended="02/11/2025 23:13:56" isEndedSynced="True" />
+    <Attempt id="29" started="02/11/2025 23:13:59" isStartedSynced="True" ended="02/12/2025 00:48:40" isEndedSynced="True">
+      <PauseTime>00:18:33.8439447</PauseTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
       <Name>タヌゴロー</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:16.1454825</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:17:26.1859990</RealTime>
+        <RealTime>00:16:16.1454825</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-2">
@@ -111,16 +130,27 @@
         <Time id="20">
           <RealTime>00:18:07.0700073</RealTime>
         </Time>
+        <Time id="22">
+          <RealTime>00:19:53.4926969</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:16:16.1454825</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:16:24.8683817</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>エンシェントボーン</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:29:03.2701830</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>01:15:58.7722880</RealTime>
+        <RealTime>01:12:47.1247005</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="12">
@@ -128,34 +158,49 @@
         </Time>
         <Time id="15" />
         <Time id="16" />
+        <Time id="27">
+          <RealTime>01:12:47.1247005</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>ひのえ・きのと</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:19:09.1752598</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
+      <BestSegmentTime>
+        <RealTime>00:50:05.9050768</RealTime>
+      </BestSegmentTime>
       <SegmentHistory>
         <Time id="15" />
         <Time id="16" />
+        <Time id="27">
+          <RealTime>00:50:05.9050768</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>デスウォール</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:55:43.1002405</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>06:06:38.2028828</RealTime>
+        <RealTime>00:36:33.9249807</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="15">
           <RealTime>06:06:38.2028828</RealTime>
         </Time>
         <Time id="16" />
+        <Time id="27">
+          <RealTime>00:36:33.9249807</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -163,15 +208,18 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>08:41:55.5197671</RealTime>
+          <RealTime>04:05:19.7960852</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>08:41:55.5197671</RealTime>
+        <RealTime>01:09:36.6958447</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="16">
           <RealTime>08:41:55.5197671</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>01:09:36.6958447</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

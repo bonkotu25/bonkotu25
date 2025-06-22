@@ -2,26 +2,23 @@
 <Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Splits>
     <Split>
-      <Name>社畜タイム(2030/04/21)</Name>
-      <Note>いつもの</Note>
+      <Name>社畜タイム(2029/12/24)</Name>
+      <Note />
     </Split>
     <Split>
-      <Name>卵ガチャそしてコンビニへ</Name>
-      <Note />
+      <Name>31→1/2 そしてコンビニへ</Name>
+      <Note>31日(リセット)→1/2 ※年が変わるので注意
+コンビニへ</Note>
     </Split>
     <Split>
       <Name>2029/06/28 ホタルかわいいよ</Name>
       <Note>・ホタル</Note>
     </Split>
     <Split>
-      <Name>2029/07/01 7時雨と8時雨</Name>
-      <Note>・７時と8時の雨の時間を確保
-・ヤシの実はここで取り切るダメならリタイヤ
-・オノは8本くらいほしい</Note>
-    </Split>
-    <Split>
-      <Name>2029/07  23時 伐採とヤママユ</Name>
-      <Note>・ヤママユガ</Note>
+      <Name>2029/07   7時雨と8時雨と伐採とヤママユ</Name>
+      <Note>7時雨と8時雨見つける
+オノは大体7本
+ヤママユはここで取りたい</Note>
     </Split>
     <Split>
       <Name>2029/09/01 17時</Name>
@@ -50,22 +47,7 @@
 ・アレクサ引きたい</Note>
     </Split>
     <Split>
-      <Name>2029/07 8時雨 タマムシがタマタマ取れなかったあなたに</Name>
-      <Note>・タマムシ
-・セミ3種
-これがいるなら不要</Note>
-    </Split>
-    <Split>
-      <Name>2029/07 7時雨 斧がないものが近づくべからず</Name>
-      <Note>木の虫とヤシの虫はここで決着
-終わったら木も切って良い</Note>
-    </Split>
-    <Split>
-      <Name>2028/7 9時 残党狩り</Name>
-      <Note />
-    </Split>
-    <Split>
-      <Name>2027/11 9時 カマキリを許すな</Name>
+      <Name>2029/07 8時雨と7時雨</Name>
       <Note />
     </Split>
     <Split>
@@ -81,8 +63,12 @@
       <Note />
     </Split>
     <Split>
-      <Name>金の網ゲット</Name>
-      <Note />
+      <Name>残り物拾い</Name>
+      <Note>だいたいオニヤンマが残る(8月日中)</Note>
+    </Split>
+    <Split>
+      <Name>金の網ゲット(日曜日以外で)</Name>
+      <Note>日曜日はダメなので注意</Note>
     </Split>
   </Splits>
   <Name>Animal Crossing: City Folk</Name>
