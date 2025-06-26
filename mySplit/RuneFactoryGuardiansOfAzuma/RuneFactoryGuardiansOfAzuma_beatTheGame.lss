@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Rune Factory: Guardians of Azuma</GameName>
+  <CategoryName>Beat the Game</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/20/2022 16:46:57" isStartedSynced="True" ended="02/20/2022 16:47:24" isEndedSynced="True">
+      <PauseTime>00:00:09.1240000</PauseTime>
+    </Attempt>
+    <Attempt id="2" started="08/19/2022 18:18:32" isStartedSynced="True" ended="08/19/2022 19:34:10" isEndedSynced="True" />
+    <Attempt id="3" started="08/20/2022 15:53:09" isStartedSynced="True" ended="08/20/2022 21:56:25" isEndedSynced="True">
+      <RealTime>06:03:15.8470000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="08/20/2022 22:40:03" isStartedSynced="True" ended="08/21/2022 05:46:14" isEndedSynced="True">
+      <PauseTime>05:19:43.5130000</PauseTime>
+    </Attempt>
+    <Attempt id="5" started="08/21/2022 16:52:00" isStartedSynced="True" ended="08/21/2022 18:46:39" isEndedSynced="True">
+      <RealTime>01:54:38.7610000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="09/09/2022 19:21:19" isStartedSynced="True" ended="09/09/2022 19:25:38" isEndedSynced="True" />
+    <Attempt id="7" started="09/09/2022 19:25:48" isStartedSynced="True" ended="09/09/2022 19:51:48" isEndedSynced="True" />
+    <Attempt id="8" started="09/09/2022 19:53:12" isStartedSynced="True" ended="09/09/2022 21:30:32" isEndedSynced="True">
+      <RealTime>01:37:19.3490000</RealTime>
+    </Attempt>
+    <Attempt id="9" started="09/10/2022 17:33:04" isStartedSynced="True" ended="09/10/2022 17:55:09" isEndedSynced="True" />
+    <Attempt id="10" started="09/10/2022 18:12:41" isStartedSynced="True" ended="09/10/2022 19:36:54" isEndedSynced="True">
+      <RealTime>01:24:12.8270000</RealTime>
+    </Attempt>
+    <Attempt id="11" started="11/07/2024 13:54:16" isStartedSynced="True" ended="11/07/2024 13:54:49" isEndedSynced="True" />
+    <Attempt id="12" started="11/07/2024 13:57:29" isStartedSynced="True" ended="11/07/2024 16:13:52" isEndedSynced="True">
+      <PauseTime>00:17:12.9147253</PauseTime>
+    </Attempt>
+    <Attempt id="13" started="11/12/2024 14:59:24" isStartedSynced="True" ended="11/12/2024 18:26:00" isEndedSynced="True">
+      <PauseTime>00:46:18.6489399</PauseTime>
+    </Attempt>
+    <Attempt id="14" started="11/13/2024 23:07:22" isStartedSynced="True" ended="11/13/2024 23:07:33" isEndedSynced="True">
+      <PauseTime>00:00:02.0351147</PauseTime>
+    </Attempt>
+    <Attempt id="15" started="11/13/2024 23:07:48" isStartedSynced="True" ended="11/14/2024 00:55:24" isEndedSynced="True">
+      <PauseTime>00:14:57.3754972</PauseTime>
+    </Attempt>
+    <Attempt id="16" started="11/14/2024 15:22:54" isStartedSynced="True" ended="11/14/2024 16:52:50" isEndedSynced="True">
+      <RealTime>08:41:55.5197671</RealTime>
+    </Attempt>
+    <Attempt id="17" started="11/18/2024 15:43:21" isStartedSynced="True" ended="11/18/2024 16:30:08" isEndedSynced="True">
+      <PauseTime>00:20:44.5350445</PauseTime>
+    </Attempt>
+    <Attempt id="18" started="11/20/2024 23:22:21" isStartedSynced="True" ended="11/20/2024 23:22:22" isEndedSynced="True" />
+    <Attempt id="19" started="11/20/2024 23:25:47" isStartedSynced="True" ended="11/20/2024 23:49:42" isEndedSynced="True">
+      <PauseTime>00:05:32.3331215</PauseTime>
+    </Attempt>
+    <Attempt id="20" started="11/20/2024 23:50:07" isStartedSynced="True" ended="11/21/2024 00:42:16" isEndedSynced="True">
+      <PauseTime>00:32:14.4180110</PauseTime>
+    </Attempt>
+    <Attempt id="21" started="02/09/2025 14:27:26" isStartedSynced="True" ended="02/09/2025 14:27:27" isEndedSynced="True" />
+    <Attempt id="22" started="02/09/2025 14:27:36" isStartedSynced="True" ended="02/09/2025 16:15:06" isEndedSynced="True">
+      <PauseTime>00:06:46.5975531</PauseTime>
+    </Attempt>
+    <Attempt id="23" started="02/10/2025 00:05:28" isStartedSynced="True" ended="02/10/2025 00:05:30" isEndedSynced="True" />
+    <Attempt id="24" started="02/10/2025 00:05:38" isStartedSynced="True" ended="02/10/2025 00:05:39" isEndedSynced="True" />
+    <Attempt id="25" started="02/10/2025 00:07:25" isStartedSynced="True" ended="02/10/2025 00:48:01" isEndedSynced="True">
+      <PauseTime>00:22:29.9886886</PauseTime>
+    </Attempt>
+    <Attempt id="26" started="02/11/2025 05:38:54" isStartedSynced="True" ended="02/11/2025 05:56:38" isEndedSynced="True" />
+    <Attempt id="27" started="02/11/2025 05:57:10" isStartedSynced="True" ended="02/11/2025 10:02:30" isEndedSynced="True">
+      <RealTime>04:05:19.7960852</RealTime>
+    </Attempt>
+    <Attempt id="28" started="02/11/2025 23:13:55" isStartedSynced="True" ended="02/11/2025 23:13:56" isEndedSynced="True" />
+    <Attempt id="29" started="02/11/2025 23:13:59" isStartedSynced="True" ended="02/12/2025 00:48:40" isEndedSynced="True">
+      <PauseTime>00:18:33.8439447</PauseTime>
+    </Attempt>
+    <Attempt id="30" started="06/08/2025 15:47:28" isStartedSynced="True" ended="06/08/2025 15:47:30" isEndedSynced="True" />
+    <Attempt id="31" started="06/08/2025 15:49:00" isStartedSynced="True" ended="06/08/2025 18:44:49" isEndedSynced="True">
+      <PauseTime>00:30:40.1706478</PauseTime>
+    </Attempt>
+    <Attempt id="32" started="06/09/2025 16:22:50" isStartedSynced="True" ended="06/09/2025 16:22:51" isEndedSynced="True" />
+    <Attempt id="33" started="06/09/2025 16:22:52" isStartedSynced="True" ended="06/09/2025 16:23:02" isEndedSynced="True">
+      <PauseTime>00:00:08.3840031</PauseTime>
+    </Attempt>
+    <Attempt id="34" started="06/09/2025 16:23:50" isStartedSynced="True" ended="06/09/2025 18:47:08" isEndedSynced="True">
+      <PauseTime>00:29:25.9820392</PauseTime>
+    </Attempt>
+    <Attempt id="35" started="06/24/2025 17:44:34" isStartedSynced="True" ended="06/24/2025 18:52:26" isEndedSynced="True">
+      <PauseTime>00:29:44.7954177</PauseTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>馬</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:37.6039657</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2" />
+        <Time id="3" />
+        <Time id="4" />
+        <Time id="5" />
+        <Time id="7" />
+        <Time id="8" />
+        <Time id="10" />
+        <Time id="12" />
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="17" />
+        <Time id="20" />
+        <Time id="22" />
+        <Time id="27" />
+        <Time id="29" />
+        <Time id="31" />
+        <Time id="34" />
+        <Time id="35">
+          <RealTime>00:09:37.6039657</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>デッドツリーアズマの姿</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:17:52.1820963</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2" />
+        <Time id="3" />
+        <Time id="4" />
+        <Time id="5" />
+        <Time id="7" />
+        <Time id="8" />
+        <Time id="10" />
+        <Time id="12" />
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="17" />
+        <Time id="20" />
+        <Time id="22" />
+        <Time id="27" />
+        <Time id="29" />
+        <Time id="31" />
+        <Time id="34" />
+        <Time id="35">
+          <RealTime>00:17:52.1820963</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>春の国</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>1157.09:46:39</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:53:54.0193042</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="17">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="22">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>1157.09:46:39</RealTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:53:54.0193042</RealTime>
+        </Time>
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>鎧武者</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="31" />
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>夏の国</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>2314.19:33:18</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:28.7421871</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="31">
+          <RealTime>00:19:28.7421871</RealTime>
+        </Time>
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>たぬき</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="27" />
+        <Time id="31" />
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>クラマ天狗</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="27" />
+        <Time id="31" />
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>秋の国</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>6946759.05:23:23.9050000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:33:44.2591807</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="27">
+          <RealTime>1.03:46:39</RealTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:33:44.2591807</RealTime>
+        </Time>
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>白狼</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="27" />
+        <Time id="31" />
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>冬の国</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>6946759.05:59:57.8299807</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:36:33.9249807</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="15">
+          <RealTime>06:06:38.2028828</RealTime>
+        </Time>
+        <Time id="16" />
+        <Time id="27">
+          <RealTime>00:36:33.9249807</RealTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:37:54.0260525</RealTime>
+        </Time>
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>神楽殿4つ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>02:30:30.6366232</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="16" />
+        <Time id="27" />
+        <Time id="34">
+          <RealTime>02:30:30.6366232</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>デッドツリーリターンズ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="16" />
+        <Time id="27" />
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>鎧武者亜種</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="16" />
+        <Time id="27" />
+        <Time id="34" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>ひなちゃん！！</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:38:06.5671232</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="16" />
+        <Time id="27" />
+        <Time id="34">
+          <RealTime>01:38:06.5671232</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>いかるが</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="16" />
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>星振のほこら</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="16" />
+        <Time id="27" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>根の国</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>6946759.07:09:34.5258254</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:09:36.6958447</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="16">
+          <RealTime>08:41:55.5197671</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>01:09:36.6958447</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>夏の里</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ミラボレアス</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ベイロン</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ハウンド</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>クラリス</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ウラ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ベイロン</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>ハウンド</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>クラリス</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
