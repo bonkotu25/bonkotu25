@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>1day</Name>
+      <Note>1日目
+チュートリアル
+犬の名前は適当
+自己紹介はしない
+ニワトリを注文
+寝る
+</Note>
+    </Split>
+    <Split>
+      <Name>2day</Name>
+      <Note>牛を放牧ー&gt;乳搾り
+ミルクスープを作り、花を6本
+セピリアに花とミルクスープを渡す
+街へ行く
+ニワトリの購入イベント(自宅にルーラ)
+自宅から外に出る(セピリアのハート0イベント)
+寝る</Note>
+    </Split>
+    <Split>
+      <Name>3day</Name>
+      <Note>乳搾り
+ミルクスープを作る(7個)
+セピリアに花とミルクスープを渡す
+セピリアの家に入ろうとする(セピリアのハート2イベント)
+これからでられる？→一緒に行こうか？→すみませんでした。
+寝る</Note>
+    </Split>
+    <Split>
+      <Name>4day</Name>
+      <Note>セピリアに花とミルクスープを渡す
+寝る</Note>
+    </Split>
+    <Split>
+      <Name>5day</Name>
+      <Note>ニワトリの購入
+セピリアに花とミルクスープを渡す
+寝る</Note>
+    </Split>
+    <Split>
+      <Name>6day</Name>
+      <Note>街の外に出る
+ニワトリの購入イベント
+家の外に出る(セピリアのハート4イベント)
+  動かない→なったかも
+
+セピリアに花とミルクスープを渡す(帰るところを捕まえる)
+寝る</Note>
+    </Split>
+    <Split>
+      <Name>7day</Name>
+      <Note>セピリアに花とミルクスープを渡す
+街の外に出る
+家の外に出る(セピリアのハート6イベント)
+  ・行く → 悩みなら聞くよ → ものは試しだよ
+
+寝る</Note>
+    </Split>
+    <Split>
+      <Name>8day</Name>
+      <Note>ペッパー1まで寝る</Note>
+    </Split>
+    <Split>
+      <Name>プロポーズ</Name>
+      <Note>青い羽根のイベント
+入口のアイテム箱から受け取る
+
+* セピリアにミルクスープを渡す *
+
+セピリアに青い羽を渡す
+GG</Note>
+    </Split>
+  </Splits>
+  <Name>Story of Seasons: A Wonderful Life</Name>
+  <Category>Proposal_Cecilia</Category>
+</Guide>
