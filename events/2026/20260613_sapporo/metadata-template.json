@@ -1,0 +1,30 @@
+{
+  "event": {
+    "name": "[イベント名]",
+    "date": "YYYY-MM-DD",
+    "url": "[イベントページURL]",
+    "organizer": "[主催者名]"
+  },
+  "participation": {
+    "application_date": "YYYY-MM-DD",
+    "publication_date": "YYYY-MM-DD",
+    "status": "応募前"
+  },
+  "content": {
+    "title": "[記事タイトル]",
+    "game": "[対象ゲーム名]",
+    "category": "[RTAカテゴリ]",
+    "estimated_reading_time": "[想定読了時間]"
+  },
+  "files": {
+    "application": "application.md",
+    "article": "article.md",
+    "resources": []
+  },
+  "tags": [
+    "RTA",
+    "[ゲーム名]",
+    "[その他のタグ]"
+  ],
+  "notes": "[その他のメモや特記事項]"
+}
