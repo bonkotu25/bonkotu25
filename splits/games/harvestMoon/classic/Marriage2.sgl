@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>魚5匹</Name>
+      <Note>魚を2匹。朝一で釣りをして夜に農作業をする。
+初日はエリア移動を挟まないと釣り人が解禁されない。
+釣りは座ったら乱数で決まってそう。ゴミを釣ったら移動する。
+</Note>
+    </Split>
+    <Split>
+      <Name>じゃがいも9面 + 愛情度上げ(25回)</Name>
+      <Note>正確には8面+3個で6000Gになる。(80G*75個)
+
+愛情度上げは25回でぴったり。</Note>
+    </Split>
+    <Split>
+      <Name>雨6日</Name>
+      <Note>台風が来たらチャートが崩壊</Note>
+    </Split>
+    <Split>
+      <Name>伐採42個&amp;収穫</Name>
+      <Note>42*6→252個
+温泉はn回入る。
+</Note>
+    </Split>
+    <Split>
+      <Name>青い羽購入</Name>
+      <Note>1000Gあとは論点なし。
+日曜日であることだけ注意</Note>
+    </Split>
+    <Split>
+      <Name>結婚</Name>
+      <Note>土曜日。
+暗転でタイマーストップ</Note>
+    </Split>
+  </Splits>
+  <Name>Harvest Moon</Name>
+  <Category>Marriage</Category>
+</Guide>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>ピザ</Name>
+      <Note>日常
+　　・調理魔法の便利レシピ集
+　　・魔法で通勤する方法
+　　・マイホーム魔法：住まいを守り育てる魔法
+　　・話す魔法、伝える術
+　　・放棄の操縦術：空をかけるための技法
+　　・出社3秒前の魔法：時間ギリギリでも慌てない！
+　　・めんどくさがり屋のための魔法大全
+
+数学
+　　・等価交換の法則
+　　・呪力と制約条件の定量化
+
+ロマンス
+　　・ロマンス小説：ニワトリとネコ
+　　・二十歳の若き女性と八十歳の符号が結ぶ真実の愛
+　　・魔力ゼロのワタシを、最強の魔道士が話してくれない！</Note>
+    </Split>
+  </Splits>
+  <Name>Librarian: Tidy Up the Arcane Library!</Name>
+  <Category>Any%</Category>
+</Guide>

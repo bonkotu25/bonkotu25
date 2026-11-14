@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Harvest Moon</GameName>
+  <CategoryName>Marriage</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>21</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/01/2023 23:12:16" isStartedSynced="True" ended="03/01/2023 23:12:17" isEndedSynced="True" />
+    <Attempt id="2" started="03/01/2023 23:12:32" isStartedSynced="True" ended="03/01/2023 23:12:45" isEndedSynced="True" />
+    <Attempt id="3" started="03/01/2023 23:13:12" isStartedSynced="True" ended="03/01/2023 23:14:13" isEndedSynced="True" />
+    <Attempt id="4" started="03/07/2023 21:02:56" isStartedSynced="True" ended="03/07/2023 21:09:23" isEndedSynced="True" />
+    <Attempt id="5" started="03/07/2023 21:12:53" isStartedSynced="True" ended="03/07/2023 21:15:41" isEndedSynced="True" />
+    <Attempt id="6" started="03/07/2023 21:22:50" isStartedSynced="True" ended="03/07/2023 21:23:13" isEndedSynced="True" />
+    <Attempt id="7" started="01/06/2026 22:13:09" isStartedSynced="True" ended="01/06/2026 22:25:36" isEndedSynced="True" />
+    <Attempt id="8" started="01/06/2026 22:25:53" isStartedSynced="True" ended="01/06/2026 23:03:44" isEndedSynced="True">
+      <PauseTime>00:00:04.7936779</PauseTime>
+    </Attempt>
+    <Attempt id="9" started="01/12/2026 12:39:39" isStartedSynced="True" ended="01/12/2026 13:47:47" isEndedSynced="True">
+      <RealTime>01:08:07.7343946</RealTime>
+    </Attempt>
+    <Attempt id="10" started="01/18/2026 14:33:09" isStartedSynced="True" ended="01/18/2026 14:33:10" isEndedSynced="True" />
+    <Attempt id="11" started="01/18/2026 14:35:18" isStartedSynced="True" ended="01/18/2026 15:31:44" isEndedSynced="True" />
+    <Attempt id="12" started="01/18/2026 15:35:17" isStartedSynced="True" ended="01/18/2026 16:23:17" isEndedSynced="True">
+      <RealTime>00:48:00.2344888</RealTime>
+    </Attempt>
+    <Attempt id="13" started="01/31/2026 16:04:20" isStartedSynced="True" ended="01/31/2026 16:04:21" isEndedSynced="True" />
+    <Attempt id="14" started="01/31/2026 16:07:28" isStartedSynced="True" ended="01/31/2026 16:51:37" isEndedSynced="True">
+      <RealTime>00:44:08.6377520</RealTime>
+    </Attempt>
+    <Attempt id="15" started="01/31/2026 17:04:23" isStartedSynced="True" ended="01/31/2026 17:51:31" isEndedSynced="True">
+      <RealTime>00:47:07.3749899</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>愛情度上げ(25回)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:51.8019786</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>1.03:46:39</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:18:56.6905882</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:15:04.3084418</RealTime>
+        </Time>
+        <Time id="11" />
+        <Time id="12" />
+        <Time id="14" />
+        <Time id="15">
+          <RealTime>00:13:51.8019786</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>ぴいちゃん</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:32.0640730</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:41.0610577</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2" />
+        <Time id="9" />
+        <Time id="11">
+          <RealTime>00:15:11.0390062</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:16:00.0704635</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:41.0610577</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:15:32.0640730</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>秋突入</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:24:19.4350929</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:44.0483312</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2" />
+        <Time id="9" />
+        <Time id="11">
+          <RealTime>00:07:50.7753868</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:07:49.0357514</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:07:44.0483312</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:08:47.3710199</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>増築</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:40:06.1455221</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:15:46.7104292</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>10.10:00:00</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:39:50.3215744</RealTime>
+        </Time>
+        <Time id="12" />
+        <Time id="14">
+          <RealTime>00:15:46.7104292</RealTime>
+        </Time>
+        <Time id="15" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>青い羽購入</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:15.1686670</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:09.0231449</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2" />
+        <Time id="9" />
+        <Time id="12">
+          <RealTime>00:23:47.7030763</RealTime>
+        </Time>
+        <Time id="15" />
+        <Time id="14">
+          <RealTime>00:02:09.0231449</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>結婚</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:44:08.6377520</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:23.4251976</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>11.13:46:39</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:13:13.1043784</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:23.4251976</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:23:50.4636224</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:53.4690850</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
